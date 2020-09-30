@@ -8,4 +8,6 @@
 |:-----------------------|:-------------------------------------------------|:------------------------|
 |[Модель для предсказания рыночной стоимости автомобиля](https://github.com/AnnaIsamova/Y.PraktikumProjects/tree/master/autos)| Построение модели для предсказания рыночной стоимости автомобиля по полученным историческим данным| Pandas, Seaborn, MatplotLib, Sklearn, NumPy|    
 |[Рыночная стоимость квартир](https://github.com/AnnaIsamova/Y.PraktikumProjects/tree/master/estate_value)| Проведение исследовательского анализа архивных объявлений о продаже квартир в Санкт-Петербурге| Pandas, MatplotLib|
+|[Игры и игровые платформы](https://github.com/AnnaIsamova/Y.PraktikumProjects/tree/master/computer_games)| Исследование исторических данных по играм и игровым платформам для определения критериев успешности| Pandas, Seaborn, MatplotLib, SciPy, NumPy|
+
 
