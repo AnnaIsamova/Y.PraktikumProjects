@@ -1,0 +1,7 @@
+*.pyc
+!main.pyc
+te?t.txt
+/main.py
+.idea/
+doc/*.txt
+doc/**/*.txt
