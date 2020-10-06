@@ -16,7 +16,7 @@
 
 ### Стек:
 
-- библиотеки Pandas, PyMystem3, модуль Collections
+Библиотеки Pandas, PyMystem3, модуль Collections
 
 --------------------
 
