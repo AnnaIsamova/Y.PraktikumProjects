@@ -13,7 +13,7 @@ sMAPE: 12.345463478946273
 
 ------------------------
 
-### Стэк:
+### Стек:
 
 Библиотеки Pandas, Seaborn, MatplotLib, Sklearn, NumPy
 
