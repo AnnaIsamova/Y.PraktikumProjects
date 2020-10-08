@@ -14,7 +14,7 @@ F1 score у модели CatBoost и Logistic Regression практически 
 
 --------------------
 
-### Стэк:
+### Стек:
 
 - библиотеки Pandas, Sklearn, NumPy, NLTK, PyWSD, PyTorch.
 
